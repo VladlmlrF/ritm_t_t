@@ -1,0 +1,13 @@
+[
+  {
+    "name": "MyForm",
+    "user_name": "text",
+    "lead_email": "email",
+    "order_date": "date"
+  },
+  {
+    "name": "LeadForm",
+    "lead_phone": "phone",
+    "lead_email": "email"
+  }
+]
